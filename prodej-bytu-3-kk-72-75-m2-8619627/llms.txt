@@ -1,0 +1,22 @@
+# Prodej bytu, 3+kk, 72,75 m²
+
+> Představujeme Vám nový developerský projekt Na Okraji Tachov, který nabídne moderní a úsporné bydlení v klidné části města. Projekt je navržen s důrazem na kvalitní architekturu, komfort budoucích obyvatel a příjemné rezidenční prostředí vhodné jak pro rodinné bydlení, tak jako zajímavá investiční příležitost. Velký důraz je kladen na vysoký standard provedení a dlouhodobou energetickou úspornost.
+
+## Fakta
+- Typ: Byty
+- Druh nabídky: Prodej
+- Dispozice: 3+kk
+- Plocha: 72.75 m²
+- Podlaží: 5
+- Stav: ve výstavbě (hrubá stavba)
+- Vlastnictví: osobní
+- Energetická náročnost: B
+- Lokalita: Sokolovská, Tachov, Plzeňský kraj
+- Cena: 4 800 648 Kč
+
+## Kontakt
+- Makléř: Zákaznická Linka
+- Telefon: +420800100164
+- E-mail: realityspolu@bcas.cz
+- Kancelář: Broker Consulting, a.s.
+- Web kanceláře: https://www.realityspolu.cz
